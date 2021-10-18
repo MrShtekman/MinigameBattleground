@@ -4,10 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/Kim.unity
-    guid: d7358a2eece91b243b1b5f6c0236f36d
+  m_Scenes: []
   m_configObjects:
-    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: aff3efee20b34e04090e24cf3740412f, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 94201f6b08e349a4ba8469d6f07c0c49, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9323b5e872e4c7040ba5cfb8740856da, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6bb1a0e322c60044a97a23d632d6926f, type: 2}
